@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taglib xmlns="http://java.sun.com/xml/ns/j2ee"
+        version="2.0">
+    <tlib-version>2.1</tlib-version>
+    <short-name>jsonLib</short-name>
+
+    <tag>
+        <name>json</name>
+        <tag-class>epam.JsonTagHandler</tag-class>
+        <body-content>scriptless</body-content>
+    </tag>
+</taglib>
